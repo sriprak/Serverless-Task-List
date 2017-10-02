@@ -1,0 +1,8 @@
+.NewTask form {
+    padding-bottom: 15px;
+}
+
+.NewTask form text {
+    /*height: 30px;*/
+    font-size: 24px;
+}
